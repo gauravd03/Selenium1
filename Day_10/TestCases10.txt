@@ -1,0 +1,90 @@
+HomeTask 10 Test cases IDE
+
+
+https://bugbug.io/blog/software-testing/best-selenium-practice-websites/#selenium-commands
+
+
+Test Case 1:
+
+
+Open Browser
+open (https://bugbug.io/blog/software-testing/best-selenium-practice-websites/#selenium-commands) link in browser
+check is it showing homeapge with headline (Best Selenium Practice Websites in 2023)
+
+
+
+Test Case 2:
+open browser  
+open (https://bugbug.io/blog/software-testing/best-selenium-practice-websites/#selenium-commands) link
+click on signup for free
+check is it showing google login page or not
+Go back to home page and close
+
+
+Test Case 3
+open browser
+open(https://bugbug.io/blog/software-testing/best-selenium-practice-websites/#selenium-commands)
+click on login functionality 
+click on forgot password 
+assert is it showing for password winddow or not
+
+
+Test Case 4
+open browser
+open(https://bugbug.io/blog/software-testing/best-selenium-practice-websites/#selenium-commands)
+click on login 
+check login page available or not 
+enter password 
+click on login button 
+check is it providing error that enter password
+
+Test Case 5
+open Browser
+Open (https://bugbug.io/blog/software-testing/best-selenium-practice-websites/#selenium-commands) link
+click on signup for free 
+enter username
+enter new password
+enter confirmed password
+click on checkbox 
+click on signup check is successfull created message got  or not
+
+Test Case 6
+Open Browser
+open (https://bugbug.io/blog/software-testing/best-selenium-practice-websites/#selenium-commands)
+click on resources
+click on blog 
+assert blog page is shown 
+go back to home page
+
+
+Test Case 7
+Open Browser 
+open (https://bugbug.io/blog/software-testing/best-selenium-practice-websites/#selenium-commands)
+click on pricing 
+click on start free trial
+assert signup page is opened or not
+go one step back
+
+
+Test Case 8
+open Browser
+Open(https://bugbug.io/blog/software-testing/best-selenium-practice-websites/#selenium-commands)
+click on pricing 
+assert is free package showing or not
+
+Test Case 9
+open Browser
+Open(https://bugbug.io/blog/software-testing/best-selenium-practice-websites/#selenium-commands)
+click on pricing 
+assert is contact us option showing or not
+print showing test on this section
+
+Test Case 10
+open Browser
+open(https://bugbug.io/blog/software-testing/best-selenium-practice-websites/#selenium-commands)
+click on pricing 
+click on contact us 
+enter name
+enter email
+click on send message 
+check successfully send or not
